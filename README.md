@@ -4,9 +4,19 @@
 
 Double click on one or more words to highlight them throughout the open file.
 
-This is a fork of ![highlight selected](https://github.com/richrace/highlight-selected).
+This is a fork of [highlight selected](https://github.com/richrace/highlight-selected).
 This is a group project for CSCI 2963 Introduction to Open Source.
+
 Group member:
+[...](#)
+
+[...](#)
+
+[...](#)
+
+[...](#)
+
+[...](#)
 
 Some code and has been taken from Atom's
   [find and replace](https://github.com/atom/find-and-replace) package
