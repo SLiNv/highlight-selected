@@ -1,18 +1,29 @@
-# Highlight Selected
+# Highlight Multiple Selected
 
-[![Build Status](https://travis-ci.org/richrace/highlight-selected.svg?branch=master)](https://travis-ci.org/richrace/highlight-selected)
+<!-- [![Build Status](https://travis-ci.org/richrace/highlight-selected.svg?branch=master)](https://travis-ci.org/richrace/highlight-selected) -->
 
-Double click on a word to highlight it throughout the open file.
+Double click on one or more words to highlight them throughout the open file.
 
-This is something hacky I've put together as I missed the functionality that
-Sublime gave.
+This is a fork of [highlight selected](https://github.com/richrace/highlight-selected).
+This is a group project for CSCI 2963 Introduction to Open Source.
+
+Group member:
+[...](#)
+
+[...](#)
+
+[...](#)
+
+[...](#)
+
+[...](#)
 
 Some code and has been taken from Atom's
   [find and replace](https://github.com/atom/find-and-replace) package
 
 Please log any issues and pull requests are more than welcome!
 
-![Gif in action](http://i.imgur.com/C5FnzzQ.gif)
+![Gif in action](demo/Demo.gif)
 
 Change the following CSS in your StyleSheet to change the colours to suit your
 theme. Either set the light theme check box in settings to be able to toggle
