@@ -7,6 +7,7 @@ Double click on one or more words to highlight them throughout the open file.
 This is a fork of [highlight selected](https://github.com/richrace/highlight-selected).
 This is a group project for CSCI 2963 Introduction to Open Source.
 
+<<<<<<< HEAD
 Group member:
 [...](#)
 
@@ -17,13 +18,36 @@ Group member:
 [...](#)
 
 [...](#)
+=======
+Group members:
+
+* [Mukul Surajiwale](https://github.com/mukulio)
+
+* [Ryan Manske](https://github.com/rymanske)
+
+* [Alwin Joy](https://github.com/alwinrobot)
+
+* [Nathan Potolsky](https://github.com/nathanpotolsky)
+
+* [Zhenyu (Victor) Zhu](https://github.com/SLiNv)
+>>>>>>> refs/remotes/nathanpotolsky/master
 
 Some code and has been taken from Atom's
   [find and replace](https://github.com/atom/find-and-replace) package
 
 Please log any issues and pull requests are more than welcome!
 
+<<<<<<< HEAD
 ![Gif in action](demo/Demo.gif)
+=======
+Multiple Colors!
+
+![Gif in action](http://g.recordit.co/W9SeOL3DpQ.gif)
+
+Status Bar!
+
+![Gif in action](https://raw.githubusercontent.com/nathanpotolsky/highlight-selected/master/demo/Status%20bar%20view.gif)
+>>>>>>> refs/remotes/nathanpotolsky/master
 
 Change the following CSS in your StyleSheet to change the colours to suit your
 theme. Either set the light theme check box in settings to be able to toggle
@@ -54,5 +78,3 @@ atom-text-editor, atom-text-editor::shadow {
 # Issues and Todo
 
 - Should we highlight symbols?
-- Merge this feature in the
-[find-and-replace](https://github.com/atom/find-and-replace) package
